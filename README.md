@@ -1,5 +1,12 @@
+loxone-simple-js
+================
+
 Simple Loxone control with JavaScript
-======
+
+![UI](loxone-simple.png?raw=true)
+
+Instructions
+------------
 
 Clone the project, then open *index.html*.
 
